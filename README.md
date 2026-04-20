@@ -1,4 +1,4 @@
-# UTDNLP
+# Text Summarizer using BART Models
 Project Extension for Research Internship @ UTD
 
 This project was an extension of my summer research internship at UT Dallas.
